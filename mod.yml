@@ -1,6 +1,6 @@
-title: "Lion's Resolve over Sleeping Lion"
+title: Lion's Resolve over Sleeping Lion
 originalAuthor: dallin1016
-description: "Replaces Sleeping Lion with Lion's Resolve"
+description: Replaces Sleeping Lion with Lion's Resolve
 assets:
 - name: obj/W_EX010_F0.mdlx
   method: copy
